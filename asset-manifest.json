@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/LpCorpusAcademias2/static/css/main.a19809f5.chunk.css",
-    "main.js": "/LpCorpusAcademias2/static/js/main.5893b8d0.chunk.js",
-    "main.js.map": "/LpCorpusAcademias2/static/js/main.5893b8d0.chunk.js.map",
+    "main.css": "/LpCorpusAcademias2/static/css/main.180c1c3b.chunk.css",
+    "main.js": "/LpCorpusAcademias2/static/js/main.73bb2e4e.chunk.js",
+    "main.js.map": "/LpCorpusAcademias2/static/js/main.73bb2e4e.chunk.js.map",
     "runtime~main.js": "/LpCorpusAcademias2/static/js/runtime~main.f2ebce58.js",
     "runtime~main.js.map": "/LpCorpusAcademias2/static/js/runtime~main.f2ebce58.js.map",
     "static/css/2.5a2a4169.chunk.css": "/LpCorpusAcademias2/static/css/2.5a2a4169.chunk.css",
     "static/js/2.5f08ba36.chunk.js": "/LpCorpusAcademias2/static/js/2.5f08ba36.chunk.js",
     "static/js/2.5f08ba36.chunk.js.map": "/LpCorpusAcademias2/static/js/2.5f08ba36.chunk.js.map",
     "index.html": "/LpCorpusAcademias2/index.html",
-    "precache-manifest.3b41684c81ea6055aa4559a304b8791c.js": "/LpCorpusAcademias2/precache-manifest.3b41684c81ea6055aa4559a304b8791c.js",
+    "precache-manifest.adfcd2ac715a2f22a5f7184ba9cd4770.js": "/LpCorpusAcademias2/precache-manifest.adfcd2ac715a2f22a5f7184ba9cd4770.js",
     "service-worker.js": "/LpCorpusAcademias2/service-worker.js",
     "static/css/2.5a2a4169.chunk.css.map": "/LpCorpusAcademias2/static/css/2.5a2a4169.chunk.css.map",
-    "static/css/main.a19809f5.chunk.css.map": "/LpCorpusAcademias2/static/css/main.a19809f5.chunk.css.map",
+    "static/css/main.180c1c3b.chunk.css.map": "/LpCorpusAcademias2/static/css/main.180c1c3b.chunk.css.map",
     "static/media/App.css": "/LpCorpusAcademias2/static/media/Bozon-Regular.5824d083.ttf",
     "static/media/slick-theme.css": "/LpCorpusAcademias2/static/media/slick.f97e3bbf.svg"
   }

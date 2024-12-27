@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2553a3e65e7cd900e4892bf0b8b340c",
+    "revision": "e6e6e42ba74864709b2c68de10cdd754",
     "url": "/LpCorpusAcademias2/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LpCorpusAcademias2/static/css/2.5a2a4169.chunk.css"
   },
   {
-    "revision": "73343789c1b9363f9ddf",
-    "url": "/LpCorpusAcademias2/static/css/main.a19809f5.chunk.css"
+    "revision": "2cc144a81124d6f2bade",
+    "url": "/LpCorpusAcademias2/static/css/main.180c1c3b.chunk.css"
   },
   {
     "revision": "24e2c5c84cd6fecaa4be",
     "url": "/LpCorpusAcademias2/static/js/2.5f08ba36.chunk.js"
   },
   {
-    "revision": "73343789c1b9363f9ddf",
-    "url": "/LpCorpusAcademias2/static/js/main.5893b8d0.chunk.js"
+    "revision": "2cc144a81124d6f2bade",
+    "url": "/LpCorpusAcademias2/static/js/main.73bb2e4e.chunk.js"
   },
   {
     "revision": "8c711d57afb9406b8b49",
