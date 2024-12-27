@@ -484,8 +484,8 @@ button:hover {
   background-color: var(--background2-color);
   padding: 40px 20px;
   text-align: center;
-  background-image: url('/img/background-app.png');
-  background-size: cover;
+/*   background-image: url('/img/background-app.png');
+ */  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
@@ -936,7 +936,7 @@ footer {
 }
 
 #calendarios {
-  background-image: url('/img/background.png');
+/*   background-image: url('/img/background.png'); */
   /* Caminho para a imagem */
   background-size: cover;
   /* Faz a imagem cobrir todo o elemento */
@@ -1349,23 +1349,8 @@ table tbody tr td:nth-child(6) {
     transform-origin: top center;
     height: auto;
     padding: 2rem;
-
-    background-image: url('/img/background.png');
-    /* Caminho para a imagem */
-    background-size: cover;
-    /* Faz a imagem cobrir todo o elemento */
-    background-position: center;
-    /* Centraliza a imagem */
-    background-repeat: no-repeat;
-    /* Evita repetição da imagem */
   }
 
-
-
-  .calendario {
-    position: relative;
-    /* Garante que os absolutos não extrapolem */
-  }
 
   .personagem-calendario1,
   .personagem-calendario2 {

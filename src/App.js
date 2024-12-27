@@ -378,9 +378,11 @@ function App() {
         </div>
       </section>
 
-      <section id="calendarios">
+      <section id="calendarios" style={{
+    backgroundImage: `url(${process.env.PUBLIC_URL}/img/background.png)`,
+  }}>
 
-        <div className="calendarios">
+        <div className="calendarios"   >
           <div class="calendario">
             <h2>ARAÇOIABA DA SERRA</h2>
             <div class="calendario-wrapper">
@@ -437,7 +439,9 @@ function App() {
       </section> */}
 
       {/* Aplicativo */}
-      <section id="aplicativo" className="app-section">
+      <section id="aplicativo" className="app-section"   style={{
+    backgroundImage: `url(${process.env.PUBLIC_URL}/img/background-app.png)`,
+  }}>
         <div className="app-info">
           <h2 className="app-title">Aplicativo do Aluno</h2>
           <p className="app-description">O seu treino na palma da sua mão. Baixe nosso app!</p>
