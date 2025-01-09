@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LpCorpusAcademias/static/css/main.31071607.chunk.css",
+    "main.css": "/LpCorpusAcademias/static/css/main.1aa7ecf4.chunk.css",
     "main.js": "/LpCorpusAcademias/static/js/main.894f3fdf.chunk.js",
     "main.js.map": "/LpCorpusAcademias/static/js/main.894f3fdf.chunk.js.map",
     "runtime~main.js": "/LpCorpusAcademias/static/js/runtime~main.88cf9d35.js",
@@ -9,10 +9,10 @@
     "static/js/2.72aba209.chunk.js": "/LpCorpusAcademias/static/js/2.72aba209.chunk.js",
     "static/js/2.72aba209.chunk.js.map": "/LpCorpusAcademias/static/js/2.72aba209.chunk.js.map",
     "index.html": "/LpCorpusAcademias/index.html",
-    "precache-manifest.8b243ca0ea14d07bb8014692b056ce76.js": "/LpCorpusAcademias/precache-manifest.8b243ca0ea14d07bb8014692b056ce76.js",
+    "precache-manifest.015f7eaeadaaa96e624541aae9458929.js": "/LpCorpusAcademias/precache-manifest.015f7eaeadaaa96e624541aae9458929.js",
     "service-worker.js": "/LpCorpusAcademias/service-worker.js",
     "static/css/2.f0ea1534.chunk.css.map": "/LpCorpusAcademias/static/css/2.f0ea1534.chunk.css.map",
-    "static/css/main.31071607.chunk.css.map": "/LpCorpusAcademias/static/css/main.31071607.chunk.css.map",
+    "static/css/main.1aa7ecf4.chunk.css.map": "/LpCorpusAcademias/static/css/main.1aa7ecf4.chunk.css.map",
     "static/media/App.css": "/LpCorpusAcademias/static/media/Bozon-Regular.5824d083.ttf",
     "static/media/slick-theme.css": "/LpCorpusAcademias/static/media/slick.f97e3bbf.svg"
   }
